@@ -69,5 +69,3 @@ Contributors
 
 Akhil Nair - Developer
 
-Feel free to modify the README.md as needed to include additional details or instructions!
-
